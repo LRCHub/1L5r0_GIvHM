@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "てーきあつ",
+  "base_artist": "*Natete.",
+  "createdAt": "2026-01-07T15:23:17.337403Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "てーきあつ (feat. 雨衣)",
+      "artist": "*Natete.",
+      "has_synced": false,
+      "path": "select/pl_01_てーきあつ_(feat._雨衣)_Natete..txt"
+    }
+  ]
+}
